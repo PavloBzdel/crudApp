@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "model": "Cla 250",
+      "engine": "2.5",
+      "color": "White",
+      "id": 1
+    }
+  ]
+}
